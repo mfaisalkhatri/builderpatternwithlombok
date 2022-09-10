@@ -13,7 +13,11 @@
   \testng.xml` 
 
 ## :writing_hand: Blog Links
-Checkout the following blogs where I have used the Builder Pattern with Lombok to generate fake data on rum time and 
+Following blog will give you more insights on how to use Builder Pattern with Lombok and generate fake data using 
+Java Faker library:
+- [Builder Pattern to the rescue!][builderpatternblog]
+
+Checkout the following blogs where I have used the Builder Pattern with Lombok to generate fake data on run time and 
 used it in end-to-end tests:
 - [End to End API testing using rest-assured][e2eapiblog]
 - [End to End Testing using Selenium WebDriver and Java][e2ewebblog]
@@ -42,3 +46,4 @@ mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn][linkedin]
 [e2ewebblog]: https://medium.com/@iamfaisalkhatri/end-to-end-testing-using-selenium-webdriver-and-java-4ff8667716ca
 [e2eapiblog]: https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255
 [e2eseleniumfluent]:https://medium.com/@iamfaisalkhatri/writing-selenium-web-automation-tests-in-fluent-way-864db95ee67a
+[builderpatternblog]:https://medium.com/@iamfaisalkhatri/builder-pattern-to-the-rescue-174bd46ef7f8
