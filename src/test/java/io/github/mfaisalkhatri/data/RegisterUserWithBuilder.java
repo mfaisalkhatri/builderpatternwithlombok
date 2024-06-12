@@ -2,7 +2,6 @@ package io.github.mfaisalkhatri.data;
 
 import lombok.Builder;
 import lombok.Getter;
-import lombok.Setter;
 
 /**
  * Created By Faisal Khatri on 09-09-2022
