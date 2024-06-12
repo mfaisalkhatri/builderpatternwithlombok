@@ -1,13 +1,13 @@
 package io.github.mfaisalkhatri.data;
 
-import com.github.javafaker.Faker;
+import net.datafaker.Faker;
 
 /**
  * Created By Faisal Khatri on 09-09-2022
  */
 public class DataBuilder {
 
-    private static final Faker FAKER = Faker.instance ();
+    private static final Faker FAKER = new Faker();
 
     public static RegisterUserWithBuilder getUserData () {
         return RegisterUserWithBuilder.builder ()
@@ -27,5 +27,4 @@ public class DataBuilder {
                 .numberBetween (9990000000L, 9999999999L)))
             .build ();
     }
-
 }
