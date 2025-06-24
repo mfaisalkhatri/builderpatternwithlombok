@@ -14,7 +14,7 @@
 ## :writing_hand: Blog Links
 Following blog will give you more insights on how to use Builder Pattern with Lombok and generate fake data using 
 Data Faker library:
-- [Builder Pattern to the rescue!](https://medium.com/@iamfaisalkhatri/builder-pattern-to-the-rescue-174bd46ef7f8)
+- [How to Use the Builder Design Pattern for Test Data Generation in Automation Testing](https://medium.com/@iamfaisalkhatri/builder-pattern-to-the-rescue-174bd46ef7f8)
 
 Checkout the following blogs where I have used the Builder Pattern with Lombok to generate fake data on run time and 
 used it in end-to-end tests:
