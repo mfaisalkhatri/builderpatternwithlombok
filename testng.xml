@@ -3,12 +3,12 @@
 <suite name="Builder design pattern demo">
     <test name="Register user test using datafaker and builder design pattern">
         <classes>
-            <class name="RegistrationTest">
+            <class name="io.github.mfaisalkhatri.test.RegistrationTest">
                 <methods>
                     <include name="testRegisterUser"/>
                     <include name="testRegisterUserWithBuilder"/>
                 </methods>
             </class>
         </classes>
-    </test> <!-- Test -->
+    </test>
 </suite>
