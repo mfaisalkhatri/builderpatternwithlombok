@@ -1,3 +1,5 @@
+package io.github.mfaisalkhatri.test;
+
 import io.github.mfaisalkhatri.data.RegisterUser;
 import io.github.mfaisalkhatri.data.RegisterUserWithBuilder;
 import org.testng.annotations.Test;
@@ -5,9 +7,6 @@ import org.testng.annotations.Test;
 import static io.github.mfaisalkhatri.data.DataBuilder.getUserData;
 import static org.testng.Assert.assertEquals;
 
-/**
- * Created By Faisal Khatri on 09-09-2022
- */
 public class RegistrationTest {
 
     @Test

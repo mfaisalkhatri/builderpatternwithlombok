@@ -1,8 +1,5 @@
 package io.github.mfaisalkhatri.data;
 
-/**
- * Created By Faisal Khatri on 09-09-2022
- */
 public class RegisterUser {
     private String firstName;
     private String lastName;

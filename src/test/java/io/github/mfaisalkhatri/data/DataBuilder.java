@@ -2,9 +2,6 @@ package io.github.mfaisalkhatri.data;
 
 import net.datafaker.Faker;
 
-/**
- * Created By Faisal Khatri on 09-09-2022
- */
 public class DataBuilder {
 
     private static final Faker FAKER = new Faker();
