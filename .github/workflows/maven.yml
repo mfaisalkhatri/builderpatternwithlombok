@@ -11,7 +11,12 @@ name: Java CI with Maven
 on:
   push:
     branches:
-      - master
+      - main
+      - issue-*
+
+  pull_request:
+    branches:
+      - main
       - issue-*
 
 permissions:
