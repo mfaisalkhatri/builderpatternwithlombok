@@ -1,6 +1,4 @@
 
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
 ## Don't forget to give a :star: to make the project popular.
 
 ## :question: What is this Repository about?
@@ -33,4 +31,4 @@ used it in end-to-end tests:
 Contact me for Paid trainings related to Test Automation and Software Testing,
 mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn](https://www.linkedin.com/in/faisalkhatri/)
 
-## :thought_balloon: Checkout the blogs related to Testing on my [website](https://mfaisalkhatri.github.io)
+## :thought_balloon: Checkout the blogs related to Testing on my [Medium](https://medium.com/@iamfaisalkhatri) blog
